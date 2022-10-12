@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Polygon?>
+<?import javafx.scene.text.Font?>
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="ui.pantallas.pantallainventario.InventarioController">
+    <children>
+        <TableView fx:id="tablaInventario" layoutX="149.0" layoutY="94.0" prefHeight="411.0" prefWidth="502.0">
+            <columns>
+                <TableColumn fx:id="columnaNombre" prefWidth="153.79995727539062" text="Nombre"/>
+                <TableColumn fx:id="columnaRareza" prefWidth="170.39999389648438" text="Rareza"/>
+                <TableColumn fx:id="columnaCantidad" prefWidth="180.79998779296875" text="Cantidad"/>
+            </columns>
+        </TableView>
+        <Label layoutX="329.0" layoutY="30.0" text="Inventario">
+            <font>
+                <Font size="32.0"/>
+            </font>
+        </Label>
+        <Polygon fx:id="botonAtras" fill="DODGERBLUE" layoutX="-38.0" layoutY="45.0" onMouseClicked="#volverAtras"
+                 points="50.0, -37.399993896484375, 50.0, 40.0, 114.0, -1.399993896484375" rotate="180.0" scaleX="0.5"
+                 scaleY="0.5" scaleZ="0.5" stroke="BLACK" strokeType="INSIDE"/>
+        <Label fx:id="valorInventario" layoutX="149.0" layoutY="536.0" text="Valor actual del inventario: ">
+            <font>
+                <Font size="20.0"/>
+            </font>
+        </Label>
+    </children>
+</AnchorPane>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import io.github.palexdev.materialfx.controls.MFXButton?>
+<?import io.github.palexdev.materialfx.controls.MFXComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Polygon?>
+<?import javafx.scene.text.Font?>
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="ui.pantallas.pantallabanners.BannersController">
+    <MFXButton fx:id="tiradaSingle" layoutX="189.0" layoutY="473.0" mnemonicParsing="false" onAction="#tiradaSingle"
+               prefHeight="50.0" prefWidth="118.0" text="Tirada x1"/>
+    <Polygon fx:id="botonAtras" fill="DODGERBLUE" layoutX="-38.0" layoutY="45.0" onMouseClicked="#volverAtras"
+             points="50.0, -37.399993896484375, 50.0, 40.0, 114.0, -1.399993896484375" rotate="180.0" scaleX="0.5"
+             scaleY="0.5" scaleZ="0.5" stroke="BLACK" strokeType="INSIDE"/>
+    <MFXButton fx:id="tiradaMulti" layoutX="474.0" layoutY="473.0" mnemonicParsing="false" onAction="#tiradaMulti"
+               prefHeight="50.0" prefWidth="108.0" text="Tirada x10"/>
+    <Label fx:id="precioSingle" layoutX="212.0" layoutY="537.0" text="160 Monedas"/>
+    <Label fx:id="precioMulti" layoutX="489.0" layoutY="537.0" text="1600 Monedas"/>
+    <MFXComboBox fx:id="comboBox" alignment="TOP_CENTER" layoutX="282.0" layoutY="65.0" onAction="#cambiarBanner"
+                 prefHeight="50.0" prefWidth="237.0"/>
+    <ImageView fx:id="imagenBanner" fitHeight="290.0" fitWidth="597.0" layoutX="102.0" layoutY="155.0"
+               pickOnBounds="true" preserveRatio="true"/>
+    <Label fx:id="labelMonedas" layoutX="582.0" layoutY="77.0" text="Monedas:">
+        <font>
+            <Font size="16.0"/>
+        </font>
+    </Label>
+    <MFXButton fx:id="botonAyuda" layoutX="699.0" layoutY="554.0" onAction="#mostrarAyuda" text="Información"/>
+</AnchorPane>

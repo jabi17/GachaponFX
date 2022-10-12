@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import io.github.palexdev.materialfx.controls.MFXButton?>
+<?import io.github.palexdev.materialfx.controls.MFXTextField?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="ui.pantallas.pantallalogin.LoginController">
+    <MFXTextField fx:id="textoNombre" layoutX="280.0" layoutY="235.0" prefHeight="50.0" prefWidth="240.0"/>
+    <MFXButton fx:id="botonInicio" layoutX="346.0" layoutY="320.0" mnemonicParsing="false" onAction="#login"
+               text="Empieza a jugar!"/>
+    <Label layoutX="241.0" layoutY="170.0" text="Escribe aquí tu nombre de usuario">
+        <font>
+            <Font size="21.0"/>
+        </font>
+    </Label>
+</AnchorPane>

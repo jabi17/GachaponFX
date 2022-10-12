@@ -1,0 +1,331 @@
+[
+  {
+    "nombre": "Albedo",
+    "rareza": 5,
+    "precio": -1,
+    "id": 300,
+    "icono": "/images/Icons/Character_Albedo_Thumb.png"
+  },
+  {
+    "nombre": "Aloy",
+    "rareza": 5,
+    "precio": -1,
+    "id": 400,
+    "icono": "/images/Icons/Character_Aloy_Thumb.png"
+  },
+  {
+    "nombre": "Amber",
+    "rareza": 4,
+    "precio": 2000,
+    "id": 100,
+    "icono": "/images/Icons/Character_Amber_Thumb.png"
+  },
+  {
+    "nombre": "Arataki Itto",
+    "rareza": 5,
+    "precio": -1,
+    "id": 301,
+    "icono": "/images/Icons/Character_Arataki_Itto_Thumb.png"
+  },
+  {
+    "nombre": "Beidou",
+    "rareza": 4,
+    "precio": 3000,
+    "id": 200,
+    "icono": "/images/Icons/Character_Beidou_Thumb.png"
+  },
+  {
+    "nombre": "Bennett",
+    "rareza": 4,
+    "precio": 3000,
+    "id": 201,
+    "icono": "/images/Icons/Character_Bennett_Thumb.png"
+  },
+  {
+    "nombre": "Barbara",
+    "rareza": 4,
+    "precio": 3000,
+    "id": 202,
+    "icono": "/images/Icons/Character_Barbara_Thumb.png"
+  },
+  {
+    "nombre": "Chongyun",
+    "rareza": 4,
+    "precio": 3000,
+    "id": 203,
+    "icono": "/images/Icons/Character_Chongyun_Thumb.png"
+  },
+  {
+    "nombre": "Diluc",
+    "rareza": 5,
+    "precio": -1,
+    "id": 302,
+    "icono": "/images/Icons/Character_Diluc_Thumb.png"
+  },
+  {
+    "nombre": "Diona",
+    "rareza": 4,
+    "precio": 3000,
+    "id": 204,
+    "icono": "/images/Icons/Character_Diona_Thumb.png"
+  },
+  {
+    "nombre": "Eula",
+    "rareza": 5,
+    "precio": -1,
+    "id": 303,
+    "icono": "/images/Icons/Character_Eula_Thumb.png"
+  },
+  {
+    "nombre": "Fischl",
+    "rareza": 4,
+    "precio": 3000,
+    "id": 205,
+    "icono": "/images/Icons/Character_Fischl_Thumb.png"
+  },
+  {
+    "nombre": "Ganyu",
+    "rareza": 5,
+    "precio": -1,
+    "id": 304,
+    "icono": "/images/Icons/Character_Ganyu_Thumb.png"
+  },
+  {
+    "nombre": "Gorou",
+    "rareza": 4,
+    "precio": 3000,
+    "id": 206,
+    "icono": "/images/Icons/Character_Gorou_Thumb.png"
+  },
+  {
+    "nombre": "Hu Tao",
+    "rareza": 5,
+    "precio": -1,
+    "id": 305,
+    "icono": "/images/Icons/Character_Hu_Tao_Thumb.png"
+  },
+  {
+    "nombre": "Jean",
+    "rareza": 5,
+    "precio": -1,
+    "id": 306,
+    "icono": "/images/Icons/Character_Jean_Thumb.png"
+  },
+  {
+    "nombre": "Kaedehara Kazuha",
+    "rareza": 5,
+    "precio": -1,
+    "id": 307,
+    "icono": "/images/Icons/Character_Kaedehara_Kazuha_Thumb.png"
+  },
+  {
+    "nombre": "Kaeya",
+    "rareza": 4,
+    "precio": 2000,
+    "id": 101,
+    "icono": "/images/Icons/Character_Kaeya_Thumb.png"
+  },
+  {
+    "nombre": "Kamisato Ayaka",
+    "rareza": 5,
+    "precio": -1,
+    "id": 308,
+    "icono": "/images/Icons/Character_Kamisato_Ayaka_Thumb.png"
+  },
+  {
+    "nombre": "Kamisato Ayato",
+    "rareza": 5,
+    "precio": -1,
+    "id": 309,
+    "icono": "/images/Icons/Character_Kamisato_Ayato_Thumb.png"
+  },
+  {
+    "nombre": "Keching",
+    "rareza": 5,
+    "precio": -1,
+    "id": 310,
+    "icono": "/images/Icons/Character_Keqing_Thumb.png"
+  },
+  {
+    "nombre": "Klee",
+    "rareza": 5,
+    "precio": -1,
+    "id": 311,
+    "icono": "/images/Icons/Character_Klee_Thumb.png"
+  },
+  {
+    "nombre": "Kujou Sara",
+    "rareza": 4,
+    "precio": 3000,
+    "id": 207,
+    "icono": "/images/Icons/Character_KujouSara_Thumb.png"
+  },
+  {
+    "nombre": "Lisa",
+    "rareza": 4,
+    "precio": 2000,
+    "id": 102,
+    "icono": "/images/Icons/Character_Lisa_Thumb.png"
+  },
+  {
+    "nombre": "Mona",
+    "rareza": 5,
+    "precio": -1,
+    "id": 312,
+    "icono": "/images/Icons/Character_Mona_Thumb.png"
+  },
+  {
+    "nombre": "Ninguang",
+    "rareza": 4,
+    "precio": 3000,
+    "id": 208,
+    "icono": "/images/Icons/Character_Ningguang_Thumb.png"
+  },
+  {
+    "nombre": "Noelle",
+    "rareza": 4,
+    "precio": 3000,
+    "id": 209,
+    "icono": "/images/Icons/Character_Noelle_Thumb.png"
+  },
+  {
+    "nombre": "Qiqi",
+    "rareza": 5,
+    "precio": -1,
+    "id": 313,
+    "icono": "/images/Icons/Character_Qiqi_Thumb.png"
+  },
+  {
+    "nombre": "Razor",
+    "rareza": 4,
+    "precio": 3000,
+    "id": 210,
+    "icono": "/images/Icons/Character_Razor_Thumb.png"
+  },
+  {
+    "nombre": "Rosaria",
+    "rareza": 4,
+    "precio": 3000,
+    "id": 211,
+    "icono": "/images/Icons/Character_Rosaria_Thumb.png"
+  },
+  {
+    "nombre": "Sacarosa",
+    "rareza": 4,
+    "precio": 3000,
+    "id": 212,
+    "icono": "/images/Icons/Character_Sucrose_Thumb.png"
+  },
+  {
+    "nombre": "Sangonomiya Kokomi",
+    "rareza": 5,
+    "precio": -1,
+    "id": 314,
+    "icono": "/images/Icons/Character_Sangonomiya_Kokomi_Thumb.png"
+  },
+  {
+    "nombre": "Sayu",
+    "rareza": 4,
+    "precio": 3000,
+    "id": 213,
+    "icono": "/images/Icons/Character_Sayu_Thumb.png"
+  },
+  {
+    "nombre": "Shenhe",
+    "rareza": 5,
+    "precio": -1,
+    "id": 315,
+    "icono": "/images/Icons/Character_Shenhe_Thumb.png"
+  },
+  {
+    "nombre": "Shogun Raiden",
+    "rareza": 5,
+    "precio": -1,
+    "id": 316,
+    "icono": "/images/Icons/Character_Raiden_Shogun_Thumb.png"
+  },
+  {
+    "nombre": "Tartaglia",
+    "rareza": 5,
+    "precio": -1,
+    "id": 317,
+    "icono": "/images/Icons/Character_Tartaglia_Thumb.png"
+  },
+  {
+    "nombre": "Thoma",
+    "rareza": 4,
+    "precio": 3000,
+    "id": 214,
+    "icono": "/images/Icons/Character_Thoma_Thumb.png"
+  },
+  {
+    "nombre": "Venti",
+    "rareza": 5,
+    "precio": -1,
+    "id": 318,
+    "icono": "/images/Icons/Character_Venti_Thumb.png"
+  },
+  {
+    "nombre": "Xiangling",
+    "rareza": 4,
+    "precio": 3000,
+    "id": 215,
+    "icono": "/images/Icons/Character_Xiangling_Thumb.png"
+  },
+  {
+    "nombre": "Xiao",
+    "rareza": 5,
+    "precio": -1,
+    "id": 319,
+    "icono": "/images/Icons/Character_Xiao_Thumb.png"
+  },
+  {
+    "nombre": "Xingchiu",
+    "rareza": 4,
+    "precio": 3000,
+    "id": 216,
+    "icono": "/images/Icons/Character_Xingqiu_Thumb.png"
+  },
+  {
+    "nombre": "Xinyan",
+    "rareza": 4,
+    "precio": 3000,
+    "id": 217,
+    "icono": "/images/Icons/Character_Xinyan_Thumb.png"
+  },
+  {
+    "nombre": "Yae Miko",
+    "rareza": 5,
+    "precio": -1,
+    "id": 320,
+    "icono": "/images/Icons/Character_Yae_Miko_Thumb.png"
+  },
+  {
+    "nombre": "Yanfei",
+    "rareza": 4,
+    "precio": 3000,
+    "id": 218,
+    "icono": "/images/Icons/Character_Yanfei_Thumb.png"
+  },
+  {
+    "nombre": "Yoimiya",
+    "rareza": 5,
+    "precio": -1,
+    "id": 321,
+    "icono": "/images/Icons/Character_Yoimiya_Thumb.png"
+  },
+  {
+    "nombre": "Yun Jin",
+    "rareza": 4,
+    "precio": 3000,
+    "id": 219,
+    "icono": "/images/Icons/Character_YunJin_Thumb.png"
+  },
+  {
+    "nombre": "Zhongli",
+    "rareza": 5,
+    "precio": -1,
+    "id": 322,
+    "icono": "/images/Icons/Character_Zhongli_Thumb.png"
+  }
+]

@@ -1,0 +1,3 @@
+pathUsuarios: data/usuario.json
+pathBanners: data/banners.json
+pathPersonajes: data/personajes.json
